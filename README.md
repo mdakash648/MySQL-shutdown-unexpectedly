@@ -1,0 +1,1 @@
+# MySQL-shutdown-unexpectedly
