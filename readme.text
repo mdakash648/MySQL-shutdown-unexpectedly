@@ -1,1 +1,9 @@
-asd
+1. Open directory following this path  : C:\xampp\mysql
+2. copy and paste "data" folder same directory.
+3. open "data" folder.
+4. select and delete all file and folder without [your database folder] and "ibdata1" file.
+5. Open backup directory following this path  : C:\xampp\mysql\backup
+6. select and copy all file and folder without "ibdata1".
+7. Open directory following this path  : C:\xampp\mysql\data and past.
+8. Try to start "Mysql".
+
